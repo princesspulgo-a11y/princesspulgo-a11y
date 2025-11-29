@@ -42,5 +42,3 @@ I’m passionate about:
 📱 **Phone:** +63 912 345 6789
 
 ---
-
-<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
