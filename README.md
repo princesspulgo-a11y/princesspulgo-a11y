@@ -1,17 +1,17 @@
-<h1 align="center">Hi! I'm <span style="color:#6C63FF;">Princess Pulgo</span> 👋</h1>
+<h1 align="center">Hi! I'm <span style="color:#6C63FF;">Princess Pulgo</span></h1>
 
 <p align="center">Aspiring IT professional | BS Information Technology</p>
 
 ---
 
-## 🎓 Education
+## Education
 **BS Information Technology**  
 New Era University  
 **2024 – Present**
 
 ---
 
-## 🌸 About Me
+## About Me
 I’m passionate about:  
 - Learning new technologies  
 - Building practical projects  
@@ -19,12 +19,12 @@ I’m passionate about:
 
 ---
 
-## 📜 Certifications
+## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a953d48c3e2f4a12b4764de326eb3392)
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,9 +36,9 @@ I’m passionate about:
 
 ---
 
-## 📫 Connect With Me
-✉️ **Email:** princesspulgo689@gmail.com
+## Connect With Me
+**Email:** princesspulgo689@gmail.com
 
-📱 **Phone:** +63 912 345 6789
+**Phone:** +63 912 345 6789
 
 ---
