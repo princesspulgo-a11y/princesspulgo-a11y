@@ -23,6 +23,7 @@ I’m passionate about:
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a953d48c3e2f4a12b4764de326eb3392)
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=05535DB3F54CDA3164FA034D2E459F03137BC40888ACAFAD54722D60F97DB2D9)
 - [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=74FE4F89D8A55BB072FAEDB2C16F8E6A9D59240C4768B64B34F1330F882B7843)
+- [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8CD3E4B8669A561BDF1A667BE207D496287D9AD4508ED99F7973DD753C57EAAF)
 
 ---
 
